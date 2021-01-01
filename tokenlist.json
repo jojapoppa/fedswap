@@ -1,0 +1,43 @@
+{ 
+  "name": "Fedswap",
+  "logoURI": "https://github.com/jojapoppa/fedswap/raw/main/logos/icon.png",
+  "keywords": [
+    "fedswap",
+    "fedoragold",
+    "fed",
+    "tokensets",
+    "defi"
+  ],
+  "timestamp": "2020-12-19T12:32:17.000+00:00",
+  "tokens": [
+    {
+      "address":"0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "chainId":1,
+      "name":"Ethereum",
+      "symbol":"ETH",
+      "decimals":18,
+      "logoURI":"https://github.com/jojapoppa/fedswap/raw/main/logos/eth.png"
+    },
+    { 
+      "chainId": 1,
+      "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
+      "name": "DeFi Pulse Index",
+      "symbol": "DPI",
+      "decimals": 18,
+      "logoURI": "https://github.com/jojapoppa/fedswap/raw/main/logos/dpi.svg"
+    },
+    {
+      "address":"0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "chainId":1,
+      "name":"TetherUSD",
+      "symbol":"USDT",
+      "decimals":6,
+      "logoURI": "https://github.com/jojapoppa/fedswap/raw/main/logos/dpi.svg"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}

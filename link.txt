@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/jojapoppa/fedswap/main/tokenlist.json
+
