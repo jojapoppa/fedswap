@@ -1,3 +1,5 @@
+Fedswap is a merge of the Uniswap Interface and the FedoraGold privacy coin.
+
 # Uniswap Interface
 
 [![Lint](https://github.com/Uniswap/uniswap-interface/workflows/Lint/badge.svg)](https://github.com/Uniswap/uniswap-interface/actions?query=workflow%3ALint)
