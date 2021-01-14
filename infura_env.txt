@@ -1,0 +1,10 @@
+not used on production:
+
+root@vultr:~/fedswap# cat .env
+REACT_APP_CHAIN_ID="1"
+REACT_APP_NETWORK_URL="https://mainnet.infura.io/v3/2a91b284f24349f587d856ca0327b7d3"root@vultr:~/fedswap# 
+root@vultr:~/fedswap# 
+root@vultr:~/fedswap# cat .env.production 
+REACT_APP_CHAIN_ID="1"
+REACT_APP_NETWORK_URL="https://mainnet.infura.io/v3/2a91b284f24349f587d856ca0327b7d3"root@vultr:~/fedswap# 
+

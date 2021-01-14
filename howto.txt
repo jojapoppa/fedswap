@@ -1,0 +1,11 @@
+https://github.com/second-state/how_to_deploy_uniswap
+
+https://blog.oceanprotocol.com/the-developers-guide-to-uniswap-48fcf6e9ee1e
+https://medium.com/swlh/uniswap-isnt-your-ordinary-dex-c37fcaa67470
+https://chainbulletin.com/uniswap-v2-mainnet-launch-brings-new-features-improved-security/
+
+https://medium.com/coinmonks/should-you-use-uniswap-v1-or-v2-70f8e6cb3c2c
+
+https://uniswap.org/docs/v2/advanced-topics/fees/
+
+https://github.com/sushiswap/sushiswap-exchange (.env for use with testnet?)
