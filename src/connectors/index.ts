@@ -17,13 +17,13 @@ if (typeof NETWORK_URL === 'undefined') {
   throw new Error(`REACT_APP_NETWORK_URL must be a defined environment variable`)
 }
 
-export const network = new NetworkConnector({
+export const ethNetwork = new NetworkConnector({
   urls: { [NETWORK_CHAIN_ID]: NETWORK_URL }
 })
 
 let networkLibrary: Web3Provider | undefined
 export function getNetworkLibrary(): Web3Provider {
-  return (networkLibrary = networkLibrary ?? new Web3Provider(network.provider as any))
+  return (networkLibrary = networkLibrary ?? new Web3Provider(ethNetwork.provider as any))
 }
 // below code is used for Metamask Wallet.
 // const Metamask_Token = 0x2d6b7E4c9e8FCd5A651aC4ae501804DC32177beB;

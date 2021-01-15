@@ -105,6 +105,7 @@ export default function Menu() {
 
       {open && (
         <MenuFlyout>
+
           {/* <MenuItem id="link" href="https://uniswap.org/">
             <Info size={14} />
             About
@@ -117,10 +118,20 @@ export default function Menu() {
             <Code size={14} />
             Code
           </MenuItem> */}
+
+          <MenuItem id="link" href="https://fedoragold.com">
+            <MessageCircle size={14} />
+            FED 
+          </MenuItem>
+          <MenuItem id="link" href="https://explorer.fedoragold.com">
+            <MessageCircle size={14} />
+            Explorer 
+          </MenuItem>
           <MenuItem id="link" href="https://t.me/FedoraTipsCoinOfficial">
             <MessageCircle size={14} />
             Telegram
           </MenuItem>
+
           {/* <MenuItem id="link" href="https://uniswap.info/">
             <PieChart size={14} />
             Analytics
@@ -130,6 +141,7 @@ export default function Menu() {
               Claim UNI
             </ButtonPrimary>
           )} */}
+
         </MenuFlyout>
       )}
     </StyledMenu>
