@@ -84,6 +84,26 @@ export const StyledInternalLink = styled(Link)`
   }
 `
 
+/* An alternate internal link from the react-router-dom library that is correctly styled */
+export const AltStyledInternalLink = styled(Link)`
+  text-decoration: none;
+  cursor: pointer;
+  color: ${({ theme }) => theme.white};
+  font-weight: 500;
+
+  :hover {
+    text-decoration: underline;
+  }
+
+  :focus {
+    outline: none;
+    text-decoration: underline;
+  }
+
+  :active {
+    text-decoration: none;
+  }
+`
 const StyledLink = styled.a`
   text-decoration: none;
   cursor: pointer;
