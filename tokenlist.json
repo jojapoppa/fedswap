@@ -11,12 +11,12 @@
   "timestamp": "2020-12-19T12:32:17.000+00:00",
   "tokens": [
     {
-      "address":"0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "address":"0xfc8e8eec4423c0260d18f34685acff832dec63f8",
       "chainId":1,
-      "name":"Ethereum",
-      "symbol":"ETH",
-      "decimals":18,
-      "logoURI":"https://github.com/jojapoppa/fedswap/raw/main/logos/eth.png"
+      "name":"FedoraGold",
+      "symbol":"BFED",
+      "decimals":8,
+      "logoURI":"https://github.com/jojapoppa/fedswap/raw/main/logos/bfed.png"
     },
     {
       "address":"0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
