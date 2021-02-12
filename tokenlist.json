@@ -18,14 +18,6 @@
       "decimals":8,
       "logoURI":"https://github.com/jojapoppa/fedswap/raw/main/logos/bfed.png"
     },
-    {
-      "address":"0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-      "chainId":1,
-      "name":"Ethereum",
-      "symbol":"ETH",
-      "decimals":18,
-      "logoURI":"https://github.com/jojapoppa/fedswap/raw/main/logos/eth.png"
-    },
     { 
       "chainId": 1,
       "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
