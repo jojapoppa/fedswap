@@ -240,5 +240,9 @@ body {
   background-position: 0 -30vh;
   background-repeat: no-repeat;
   background: ${({ theme }) => theme.bodyBg};
+
+  #background: linear-gradient(to right, #967117, #ffca28);
+  #background: linear-gradient(to right, #595327, #ffca28);
+  background: linear-gradient(to right, #2f2410, #ffca28);
 }
 `
